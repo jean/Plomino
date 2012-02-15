@@ -1,6 +1,0 @@
-[zopeskel]
-template = plone
-
-[server-login]
-username = ebrehault
-
